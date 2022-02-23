@@ -55,7 +55,7 @@ public class HibernateConfig {
     public LocalSessionFactoryBean sessionFactory() {
         LocalSessionFactoryBean sessionFactory = new LocalSessionFactoryBean();
         sessionFactory.setDataSource(dataSource());
-        sessionFactory.setPackagesToScan("testgroup.usercrud.model");
+        sessionFactory.setPackagesToScan("com.alfat.mvc.model");
         sessionFactory.setHibernateProperties(hibernateProperties());
         return sessionFactory;
     }
