@@ -1,4 +1,4 @@
-package com.alfat.mvc.user;
+package com.alfat.mvc.model;
 
 
 import javax.persistence.*;

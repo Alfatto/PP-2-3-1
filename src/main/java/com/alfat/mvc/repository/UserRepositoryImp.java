@@ -1,7 +1,7 @@
 package com.alfat.mvc.repository;
 
 import com.alfat.mvc.repository.iml.UserRepository;
-import com.alfat.mvc.user.User;
+import com.alfat.mvc.model.User;
 import org.springframework.stereotype.Repository;
 
 import javax.persistence.EntityManager;

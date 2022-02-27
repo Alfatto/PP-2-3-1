@@ -1,8 +1,8 @@
-package com.alfat.mvc.UserService;
+package com.alfat.mvc.Service;
 
-import com.alfat.mvc.UserService.iml.UserService;
+import com.alfat.mvc.Service.iml.UserService;
 import com.alfat.mvc.repository.iml.UserRepository;
-import com.alfat.mvc.user.User;
+import com.alfat.mvc.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

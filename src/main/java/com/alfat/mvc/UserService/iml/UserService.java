@@ -1,6 +1,6 @@
-package com.alfat.mvc.UserService.iml;
+package com.alfat.mvc.Service.iml;
 
-import com.alfat.mvc.user.User;
+import com.alfat.mvc.model.User;
 
 import java.util.List;
 
